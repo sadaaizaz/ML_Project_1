@@ -5,12 +5,6 @@ The system suggests movies similar to a user’s input based on **overview and g
 
 ---
 
-## 🚀 Live Demo
-*(Optional: Add your Streamlit Cloud link here once deployed)*  
-`https://your-app-link.streamlit.app`
-
----
-
 ## 📌 Features
 
 - 🎥 Recommend movies based on user input
